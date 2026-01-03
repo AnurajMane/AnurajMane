@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuraj Mane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer;Backend+%7C+Full-Stack+Developer;AI+%26+Data+Science+Engineer&center=true&width=520&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer;Backend+%7C+Full-Stack+Developer&center=true&width=520&height=45" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ I enjoy building **scalable, efficient, and real-world software solutions** and 
 
 ---
 
-## ☁️ Cloud & DevOps (Hands-On Experience)
+## ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Kubernetes-121212?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
@@ -72,17 +72,20 @@ I enjoy building **scalable, efficient, and real-world software solutions** and 
   <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
 </p>
 
+
+
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnurajMane&theme=github_dark&show_icons=true&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=AnurajMane&theme=github-dark&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  
 </p>
 
-
 ---
-
 ### ⚡ Engineering Mindset
 - Clean code over clever code  
 - Problem-solving first, tools second  
