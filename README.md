@@ -1,103 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anuraj Mane</h1>
+<h3 align="center">Software Developer | AI & Data Science Engineer</h3>
 
-<!--
-**AnurajMane/AnurajMane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# I'm Anuraj
-
-🎓 AI & Data Science Engineer | 📊 Aspiring Data Scientist | 💻 Software & Mobile App Developer
+<p align="center">
+  <a href="https://linkedin.com/in/anuraj-mane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anurajmane04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AnurajMane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-I am a self-motivated and quick learner with a strong analytical mindset and a passion for technology.  
-I enjoy solving real-world problems using **data, software engineering, and geospatial technologies**, and I am constantly learning new tools to improve my technical expertise.
-
-- 🎓 B.E. in Artificial Intelligence & Data Science (2022–2025)
-- 💼 Data Science & Business Analytics Trainee
-- 🔍 Interested in Data Science, Mobile Apps, and Backend Systems
-- 🌱 Currently improving skills in Python, SQL, and AI tools
+### 👨‍💻 About Me
+- Passionate **Software Developer** with strong problem-solving skills  
+- Focused on building **clean, scalable, and efficient applications**  
+- Interested in **backend systems, mobile apps, and data-driven solutions**
 
 ---
 
-## 🛠️ Technical Skills
-**Programming Languages**
-- Python
-- Java
-- C / C++
-
-**Technologies & Tools**
-- SQL
-- Android Development
-- Flutter (Dart)
-- Firebase / Supabase
-- Git & GitHub
-
-**Other Skills**
-- AI Tools
-- Team Management
-- Leadership
-- Consistency & Continuous Learning
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Key Projects
-
-### ✈️ Airlines Reservation Management System
-**Tech:** Core Java, Java Swing, JDBC, MySQL  
-- Developed a desktop-based reservation system
-- User registration, admin login, flight search & booking
-- Backend integrated using MySQL via WampServer
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnurajMane&show_icons=true&hide_border=true"/>
+</p>
 
 ---
 
-### 🚍 Vehicular Tracking System using Geospatial Data
-**Tech:** Flutter (Dart), Supabase, Firebase, QGIS  
-- Real-time school bus tracking system
-- QR-based attendance and role-based access
-- Offline support with local caching
-- Improved safety and operational efficiency
-
----
-
-## 🎓 Internship
-**Data Science & Business Analytics Traineeship**  
-📍 InternsElite | *June 2024 – Aug 2024*  
-- Hands-on exposure to data analysis concepts
-- Worked with datasets, analytics tools, and AI workflows
-
----
-
-## 📜 Certifications
-- STTP on Geospatial Computing and Applications (2025)
-- Data Science & Business Analytics Traineeship – InternsElite
-- ChatGPT & AI Tools Workshop – SkillNation
-- Java Certification – Simplilearn
-
----
-
-## 📈 GitHub Stats
-![Anuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurajMane&show_icons=true)
-
----
-
-## 🤝 Connect With Me
-- 📧 Email: **anurajmane04@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/anuraj-mane](https://linkedin.com/in/anuraj-mane)
-- 🧑‍💻 GitHub: [github.com/AnurajMane](https://github.com/AnurajMane)
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
+### ⚡ Fun Fact
+I love turning **ideas into working software** and learning new technologies 🚀
