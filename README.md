@@ -76,15 +76,6 @@ I enjoy building **scalable, efficient, and real-world software solutions** and 
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnurajMane&theme=radical)
----
-![Anuraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnurajMane&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnurajMane&layout=compact&theme=radical)
-
-
 ---
 ### ⚡ Engineering Mindset
 - Clean code over clever code  
