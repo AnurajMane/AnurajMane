@@ -26,52 +26,55 @@ I enjoy building **scalable, efficient, and real-world software solutions** and 
 
 ---
 
-## 🧠 Core Tech Stack
+## 🛠 Languages & Tech Stack
+
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/C%2FC++-121212?style=for-the-badge&logo=c&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/Dart-121212?style=for-the-badge&logo=dart&logoColor=0175C2"/>
 </p>
 
----
-
-## ⚙️ Backend & Full-Stack
+### 🌐 Frontend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-121212?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=339933"/>
 </p>
 
----
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Spring-121212?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/SpringBoot-121212?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
+  <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+</p>
 
-## 📱 Mobile & Application Development
+### 📱 Mobile & Cross-Platform
 <p>
   <img src="https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Flutter-121212?style=for-the-badge&logo=flutter&logoColor=02569B"/>
   <img src="https://img.shields.io/badge/Dart-121212?style=for-the-badge&logo=dart&logoColor=0175C2"/>
 </p>
 
----
-
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Kubernetes-121212?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
   <img src="https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Azure-121212?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/Kubernetes-121212?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
 </p>
 
----
-
-## 🧰 Tools & Platforms
+### 🛠 Version Control & Tools
 <p>
   <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
 </p>
-
 
 
 ---
