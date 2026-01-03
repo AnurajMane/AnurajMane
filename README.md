@@ -74,10 +74,12 @@ I enjoy building **scalable, efficient, and real-world software solutions** and 
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnurajMane&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnurajMane&theme=github_dark&show_icons=true&hide_border=true"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=AnurajMane&theme=github-dark&hide_border=true"/>
 </p>
+
 
 ---
 
